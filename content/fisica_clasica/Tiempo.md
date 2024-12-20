@@ -1,3 +1,0 @@
-El **tiempo** a menudo lo comparamos con un río debido a su flujo constante e imparable. Al igual que el agua en un río que avanza sin detenerse, el tiempo fluye de manera continua e irreversible, sin poder retroceder o detenerse. Cada momento es como una gota de agua que pasa rápidamente, y una vez que ha pasado, ya no puede ser recuperado.
-
-Ahora bien, en el curso, definimos el tiempo cuando se pone en marcha un reloj o cronómetro, pues se inicia el proceso de medir el paso del tiempo desde un punto en específico. En el caso de un cronómetro, comienza a contar los segundos, minutos y horas desde que se activa, registrando con precisión el intervalo de tiempo transcurrido.
