@@ -1,0 +1,5 @@
+Un **marco de referencia** es un conjunto de convenciones y puntos de referencia utilizados para medir, observar o describir el [[Movimiento|movimiento]] de un objeto en el [[Espacio-Tiempo|espacio]]. Es el sistema desde el cual se evalúan las [[Posición|posiciones]], [[Posición#Desplazamiento|desplazamientos]] y [[Velocidad|velocidades]] de los cuerpos, y juega un papel fundamental en la física para interpretar cómo varían estas [[Magnitudes|magnitudes]] según el observador.
+
+El marco de referencia no es absoluto, sino que depende de la posición y el movimiento del observador. Dos observadores en marcos de referencia diferentes pueden medir diferentes velocidades y posiciones para el mismo objeto.
+
+Además de la posición, el marco de referencia también tiene en cuenta cómo cambia el [[Tiempo|tiempo]], lo que permite calcular desplazamientos y velocidades en progresión a este.
